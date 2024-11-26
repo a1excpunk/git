@@ -5,9 +5,11 @@ Welcome to my Git repository! This space is dedicated to enhancing productivity 
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/a1excpunk/git.git
    ```
+
 2. Explore the resources in their respective directories.
 
 ## 📜 Contents
