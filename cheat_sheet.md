@@ -1,6 +1,6 @@
 # The perfect commit
 
-1. Add tje *right* changes
+1. Add the *right* changes
 2. Compose a *good* commint message
 
 <details>
@@ -15,8 +15,9 @@ git add -p <file name>
 
 ## The perfect commit *message*
 
-1. `Subject` => concise summery of what happend
+1. `Subject` => concise summery of what happend (in terminal if you leave empty line after **subject** it will know that you are writing **body**.)
 2. `Body` => more *detailed* explanation
     - What is now different than before?
-    - Wehat's the reason for the change?
+    - What's the reason for the change?
     - Is there anything to watch out for anything particularly remarkable?
+
