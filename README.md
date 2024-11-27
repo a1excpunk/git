@@ -23,9 +23,3 @@ Welcome to my Git repository! This space is dedicated to enhancing productivity 
 - Always use meaningful commit messages.
 - Regularly sync your fork with the upstream repository.
 - Experiment with Git features in a safe, local environment before applying them in a project.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Happy Git-ing! 😊
